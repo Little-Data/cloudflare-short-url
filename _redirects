@@ -1,2 +1,14 @@
 /* /400.html 404
 /g https://github.com/Little-Data 301
+# 博客
+/b https://little-data.eu.org 301
+# 测试库
+/e https://exam.little-data.top 301
+# gametoolkit
+/gt https://gametoolkit.little-data.top 301
+# office
+/of https://office.little-data.top 301
+# pdf
+/pd https://pdf.little-data.top 301
+# Excalidraw
+/tuhua https://draw.little-data.top 301
